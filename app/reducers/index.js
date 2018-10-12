@@ -1,21 +1,9 @@
 import { combineReducers } from 'redux';
-
-let dataState = {
-    quotes: [],
-    loading:true
-};
-
-const dataReducer = (state = dataState, action) => {
-    switch (action.type) {
-        default:
-            return state;
-    }
-};
-
+import quoteReducer from './quote';
 
 // Combine all the reducers
 const rootReducer = combineReducers({
-    dataReducer
+    quoteReducer
 });
 
 export default rootReducer;
