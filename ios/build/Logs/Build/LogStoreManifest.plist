@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A867722C-B98D-49EC-85A7-E06416C61A2C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A867722C-B98D-49EC-85A7-E06416C61A2C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>code_challenge_g2i project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>code_challenge_g2i</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project code_challenge_g2i with scheme code_challenge_g2i and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561020320.37951303</real>
+			<key>timeStoppedRecording</key>
+			<real>561020445.20422697</real>
+			<key>title</key>
+			<string>Building project code_challenge_g2i with scheme code_challenge_g2i and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A867722C-B98D-49EC-85A7-E06416C61A2C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

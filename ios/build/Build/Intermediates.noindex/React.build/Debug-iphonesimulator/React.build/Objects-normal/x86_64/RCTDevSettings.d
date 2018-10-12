@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
