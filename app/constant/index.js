@@ -1,1 +1,3 @@
 export const QUOTES_AVAILABLE = 'QUOTES_AVAILABLE';
+export const ADD_ANSWER = 'ADD_ANSWER';
+export const DELETE_ANSWERS = 'DELETE_ANSWERS';

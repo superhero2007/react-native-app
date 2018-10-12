@@ -14,7 +14,7 @@ import * as ReduxActions from '../actions';
 
 import { Actions } from 'react-native-router-flux';
 
-class Home extends Component {
+class HomeContainer extends Component {
     componentDidMount() {
         this.props.getQuotes();
     }
@@ -58,7 +58,7 @@ function mapDispatchToProps(dispatch) {
 }
 
 //Connect everything
-export default connect(mapStateToProps, mapDispatchToProps)(Home);
+export default connect(mapStateToProps, mapDispatchToProps)(HomeContainer);
 
 const styles = StyleSheet.create({
     container:{

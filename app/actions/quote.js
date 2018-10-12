@@ -1,4 +1,4 @@
-export const QUOTES_AVAILABLE = 'QUOTES_AVAILABLE';
+import { QUOTES_AVAILABLE } from '../constant/' //Import the actions types constant we defined in our actions
 
 // Get Data - READ (R)
 export function getQuotes(){
