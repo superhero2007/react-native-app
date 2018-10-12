@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTCxxConvert.m \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/React/Base/RCTCxxConvert.h
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/React/Base/RCTCxxConvert.m \
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/React/Base/RCTCxxConvert.h

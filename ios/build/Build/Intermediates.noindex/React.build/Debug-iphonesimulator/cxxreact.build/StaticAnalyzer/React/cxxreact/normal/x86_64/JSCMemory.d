@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.cpp \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.h \
-  /Users/super/WebstormProjects/code_challenge_g2i/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/super/WebstormProjects/code_challenge_g2i/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.cpp \
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.h \
+  /Volumes/Data/Project/Test/Init/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Volumes/Data/Project/Test/Init/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h

@@ -38,7 +38,7 @@
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-/* End PBXBuildFile section */
+/* ScoreContainer PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		00C302AB1ABCB8CE00DB3ED1 /* PBXContainerItemProxy */ = {
@@ -314,7 +314,7 @@
 			remoteGlobalIDString = 358F4ED71D1E81A9004DF814;
 			remoteInfo = RCTBlob;
 		};
-/* End PBXContainerItemProxy section */
+/* ScoreContainer PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
@@ -343,7 +343,7 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-/* End PBXFileReference section */
+/* ScoreContainer PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		00E356EB1AD99517003FC87E /* Frameworks */ = {
@@ -396,7 +396,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXFrameworksBuildPhase section */
+/* ScoreContainer PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		00C302A81ABCB8CE00DB3ED1 /* Products */ = {
@@ -603,7 +603,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-/* End PBXGroup section */
+/* ScoreContainer PBXGroup section */
 
 /* Begin PBXNativeTarget section */
 		00E356ED1AD99517003FC87E /* code_challenge_g2iTests */ = {
@@ -678,7 +678,7 @@
 			productReference = 2D02E4901E0B4A5D006451C7 /* code_challenge_g2i-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-/* End PBXNativeTarget section */
+/* ScoreContainer PBXNativeTarget section */
 
 /* Begin PBXProject section */
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
@@ -771,7 +771,7 @@
 				2D02E48F1E0B4A5D006451C7 /* code_challenge_g2i-tvOSTests */,
 			);
 		};
-/* End PBXProject section */
+/* ScoreContainer PBXProject section */
 
 /* Begin PBXReferenceProxy section */
 		00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */ = {
@@ -1033,7 +1033,7 @@
 			remoteRef = ADBDB9261DFEBF0700ED6528 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-/* End PBXReferenceProxy section */
+/* ScoreContainer PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		00E356EC1AD99517003FC87E /* Resources */ = {
@@ -1067,7 +1067,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXResourcesBuildPhase section */
+/* ScoreContainer PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
 		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
@@ -1098,7 +1098,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-/* End PBXShellScriptBuildPhase section */
+/* ScoreContainer PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		00E356EA1AD99517003FC87E /* Sources */ = {
@@ -1135,7 +1135,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXSourcesBuildPhase section */
+/* ScoreContainer PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
@@ -1148,7 +1148,7 @@
 			target = 2D02E47A1E0B4A5D006451C7 /* code_challenge_g2i-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
-/* End PBXTargetDependency section */
+/* ScoreContainer PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		13B07FB11A68108700A75B9A /* LaunchScreen.xib */ = {
@@ -1160,7 +1160,7 @@
 			path = code_challenge_g2i;
 			sourceTree = "<group>";
 		};
-/* End PBXVariantGroup section */
+/* ScoreContainer PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
@@ -1440,7 +1440,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration section */
+/* ScoreContainer XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "code_challenge_g2iTests" */ = {
@@ -1488,7 +1488,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-/* End XCConfigurationList section */
+/* ScoreContainer XCConfigurationList section */
 	};
 	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
 }

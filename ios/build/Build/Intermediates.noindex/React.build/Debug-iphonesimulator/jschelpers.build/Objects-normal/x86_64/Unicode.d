@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/super/WebstormProjects/code_challenge_g2i/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Volumes/Data/Project/Test/Init/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
