@@ -7,7 +7,6 @@ import {
     TouchableHighlight
 } from 'react-native';
 
-
 import {bindActionCreators} from 'redux';
 import { connect } from 'react-redux';
 
@@ -107,29 +106,5 @@ const styles = StyleSheet.create({
         fontSize: 25,
         textAlign: 'center',
         padding: 20
-    },
-
-    list: {
-        color: 'grey',
-        fontSize: 25,
-        textAlign: 'left',
-        padding: 10,
-        width: '90%'
-    },
-
-    mark: {
-        color: 'grey',
-        fontSize: 35,
-        fontWeight: 'bold',
-        textAlign: 'left',
-        padding: 10,
-        width: '10%'
-    },
-
-    row: {
-        alignItems: 'flex-start',
-        justifyContent: 'flex-start',
-        flex: 1,
-        flexDirection: 'row'
     }
 });

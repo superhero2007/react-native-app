@@ -5,6 +5,8 @@ import {StyleSheet,
     TouchableOpacity
 } from 'react-native';
 
+import HtmlText from 'react-native-html-to-text';
+
 import {bindActionCreators} from 'redux';
 import { connect } from 'react-redux';
 
@@ -46,7 +48,8 @@ class QuestionContainer extends Component {
                     <Text style={styles.header}>{quote.category}</Text>
                 </View>
                 <View style={styles.questionContainer}>
-                    <Text style={styles.text}>{quote.question}</Text>
+                    <HtmlText style={styles.text} html={quote.question}>
+                    </HtmlText>
                 </View>
                 <Text style={styles.index}>{this.state.index} of {this.props.quotes.length}</Text>
                 <View style={styles.actionContainer}>
