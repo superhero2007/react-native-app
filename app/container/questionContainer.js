@@ -64,8 +64,8 @@ class QuestionContainer extends Component {
 }
 
 // The function takes data from the app current state,
-// and insert/links it into the props of our component.
-// This function makes Redux know that this component needs to be passed a piece of the state
+// and insert/links it into the props of our components.
+// This function makes Redux know that this components needs to be passed a piece of the state
 function mapStateToProps(state) {
     return {
         loading: state.quoteReducer.loading,
@@ -73,7 +73,7 @@ function mapStateToProps(state) {
     }
 }
 
-// Doing this merges our actions into the component’s props,
+// Doing this merges our actions into the components’s props,
 // while wrapping them in dispatch() so that they immediately dispatch an Action.
 // Just by doing this, we will have access to the actions defined in out actions file (actions/home.js)
 function mapDispatchToProps(dispatch) {

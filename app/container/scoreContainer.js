@@ -15,6 +15,8 @@ import * as ReduxActions from '../actions';
 
 import { Actions } from 'react-native-router-flux';
 
+import ScoreItem from '../components/ScoreItem'
+
 class ScoreContainer extends Component {
     constructor (props) {
         super(props);
@@ -56,27 +58,17 @@ class ScoreContainer extends Component {
     }
 
     renderItem({item, index}) {
-        let flag = '';
         const { success } = this.state;
-        if (success.includes(index)) {
-            flag = <Text style={styles.mark}>+</Text>
-        } else {
-            flag = <Text style={styles.mark}>-</Text>
-        }
+
         return (
-            <View style={styles.row}>
-                { flag }
-                <Text style={styles.list}>
-                    {item.question}
-                </Text>
-            </View>
+            <ScoreItem flag={success.includes(index)} item={item} />
         )
     }
 }
 
 // The function takes data from the app current state,
-// and insert/links it into the props of our component.
-// This function makes Redux know that this component needs to be passed a piece of the state
+// and insert/links it into the props of our components.
+// This function makes Redux know that this components needs to be passed a piece of the state
 function mapStateToProps(state) {
     return {
         loading: state.quoteReducer.loading,
@@ -85,7 +77,7 @@ function mapStateToProps(state) {
     }
 }
 
-// Doing this merges our actions into the component’s props,
+// Doing this merges our actions into the components’s props,
 // while wrapping them in dispatch() so that they immediately dispatch an Action.
 // Just by doing this, we will have access to the actions defined in out actions file (actions/home.js)
 function mapDispatchToProps(dispatch) {
