@@ -35,6 +35,35 @@
 			<key>uniqueIdentifier</key>
 			<string>A867722C-B98D-49EC-85A7-E06416C61A2C</string>
 		</dict>
+		<key>B7C73FBE-05A4-4363-868E-FE45D9C3CA04</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B7C73FBE-05A4-4363-868E-FE45D9C3CA04.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>code_challenge_g2i project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>code_challenge_g2i</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project code_challenge_g2i with scheme code_challenge_g2i and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561076294.41399503</real>
+			<key>timeStoppedRecording</key>
+			<real>561076328.90544105</real>
+			<key>title</key>
+			<string>Building project code_challenge_g2i with scheme code_challenge_g2i and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B7C73FBE-05A4-4363-868E-FE45D9C3CA04</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
